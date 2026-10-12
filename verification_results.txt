@@ -1,0 +1,14 @@
+Analytic-model consistency checks; deterministic seed 20261012
+retarded distance relative residual: 1.31006316906e-14
+kappa R = D relative residual: 1.87627691162e-14
+dp/dv vs gamma^3 maximum relative residual: 3.6022296257e-12
+acoustic sqrt(-g) g^-1 maximum absolute residual: 1.33226762955e-15
+TT angular integral relative residual: 1.11022302463e-16
+dimensionless kink PDE finite-difference residual: 6.42405981743e-10
+kink integrated energy maximum relative residual: 2.22044604925e-16
+kink integrated momentum maximum relative residual: 2.22044604925e-16
+quadrupole power numerical vs analytic relative residual: 1.11022302463e-15
+oscillating-pair power (W): 4.52401289868e-57
+one-kilogram, 0.1-m-radius compactness: 7.42616026912e-27
+uniform-sphere binding mass fraction: -4.45569616147e-27
+All checks passed. These results do not test the vacuum-continuum conjecture.
