@@ -30,7 +30,11 @@ This note explores an intuitive association between the sound barrier and relati
 
 The retarded-field calculations do not establish gravitational pile-up as the origin of the light-speed limit. An acoustic metric illustrates the geometric description of wave propagation, and a sine-Gordon kink provides a concrete field-theoretic example with
 
-$$E = \gamma_* E_0, \qquad P = \gamma_* \frac{E_0}{c_*^2}v, \qquad \frac{\mathrm dP}{\mathrm dv} = \frac{E_0}{c_*^2}\gamma_*^3.$$
+$$
+E = \gamma_{\ast} E_0, \qquad
+P = \gamma_{\ast} \frac{E_0}{c_{\ast}^2}v, \qquad
+\frac{\mathrm dP}{\mathrm dv} = \frac{E_0}{c_{\ast}^2}\gamma_{\ast}^3.
+$$
 
 These are properties of specified models, not evidence that the physical vacuum is a fluid. The manuscript separates its calculations from its speculative interpretation and identifies what additional dynamics and observational distinctions would be needed.
 
